@@ -1,6 +1,7 @@
-### Security vulnerabilities I've discovered over the years.
+<h3 align="center">PUBLICATIONS</h3>
+<h6 align="center">A collection of security vulnerabilities discovered over the years from both my own, and collaborative research.</h6>
 
-#### 2017
+### 2017
 
 | DATE        | TITLE | CVE | CVSS Score |
 |-------------|-------|-----|------------|
