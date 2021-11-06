@@ -1,5 +1,5 @@
-<h3 align="center">PUBLICATIONS</h3>
-<h6 align="center">A collection of security vulnerabilities discovered over the years from both my own, and collaborative research.</h6>
+<h3 align="center">IT SECURITY PUBLICATIONS</h3>
+<h6 align="center">A list of security vulnerabilities discovered over the years from both my own, as well as collaborative research in the IT Security field.</h6>
 
 #### 2021
 
