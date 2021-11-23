@@ -16,4 +16,4 @@
 
 |  Date       | Title  |  CVE ID  |  CVSS Score  |
 | ----------- |:-------|:--------:|:------------:|
-| May 9       | [Local Authentication Bypass in deepin-session-ui < 4.0.6-2](https://github.com/iamaldi/portfolio/blob/main/2017/Local%20Authentication%20Bypass%20in%20deepin-session-ui.md)      | N/A | [6.8](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?vector=AV:P/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:H/RL:O/RC:C&version=3.1) |
+| May 9       | [Local Authentication Bypass in deepin-session-ui < 4.0.6-2](https://github.com/iamaldi/publications/blob/main/2017/Local%20Authentication%20Bypass%20in%20deepin-session-ui.md)      | N/A | [6.8](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?vector=AV:P/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:H/RL:O/RC:C&version=3.1) |
