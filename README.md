@@ -2,7 +2,7 @@
 <h6 align="center">Security vulnerabilities identified in personal and collaborative cybersecurity research.</h6>
 
 
-## **April 5, 2021**
+## **April 5, 2021 - Pentaho Business Analytics**
 
 **Product**: Pentaho Business Analytics\
 **Vendor**: Hitachi Vantara\
@@ -18,7 +18,7 @@
 - [CVE-2021-31600](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31600) - Jackrabbit User Enumeration
 - [CVE-2021-34685](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-34685) - Bypass of Filename Extension Restrictions at '/pentaho/UploadService' endpoint
 
-## **May 9, 2017**
+## **May 9, 2017 - deepin-session-ui**
 
 **Product**: deepin-session-ui\
 **Vendor**: Deepin (Wuhan deepin Technology Co.,Ltd.)\
