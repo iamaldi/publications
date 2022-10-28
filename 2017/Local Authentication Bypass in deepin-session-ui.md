@@ -1,4 +1,4 @@
-# Local Authentication Bypass in deepin-session-ui 4.0.6-2
+# Local Authentication Bypass in deepin-session-ui 4.0.6
 
 ## Overview
 
