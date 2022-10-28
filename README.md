@@ -1,5 +1,5 @@
 <h3 align="center">IT Security Publications</h3>
-<h6 align="center">Security vulnerabilities identified in my own, as well as through collaborative cybersecurity research.</h6>
+<h6 align="center">Security vulnerabilities identified in personal and collaborative cybersecurity research.</h6>
 
 
 ## **April 5, 2021**
