@@ -24,7 +24,7 @@
 **Vendor**: Deepin (Wuhan deepin Technology Co.,Ltd.)\
 **Affected Version(s)**: 4.0.6\
 **Author(s)**: Altion Malka\
-**Reference(s)**: [Local Authentication Bypass in deepin-session-ui.md](main/2017/Local%20Authentication%20Bypass%20in%20deepin-session-ui.md)\
+**Reference(s)**: [Local Authentication Bypass in deepin-session-ui.md](./2017/Local%20Authentication%20Bypass%20in%20deepin-session-ui.md)\
 **Security Vulnerabilities**:
 
 - Local Authentication Bypass in deepin-session-ui 4.0.6
