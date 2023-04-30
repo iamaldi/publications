@@ -5,12 +5,14 @@
 
 **Product**: Nagios Cross-Platform Agent (NCPA)\
 **Vendor**: Nagios Enterprises\
-**Affected Version(s)**: 2.3.1\
+**Affected Version(s)**: 2.0 to 2.3.1\
 **Author(s)**: Altion Malka (CENSUS Labs)\
-**Reference(s)**: https://github.com/NagiosEnterprises/ncpa/issues/830 \
+**Reference(s)**: [CVE-2021-43584.md](https://github.com/iamaldi/publications/blob/main/2021/CVE-2021-43584.md), https://github.com/NagiosEnterprises/ncpa/issues/830 \
 **Security Vulnerabilities**:
 
-- [CVE-2021-43584](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-CVE-2021-43584) - DOM-based XSS via 'name' element of 'Tail Event Logs' functionality
+- [CVE-2021-43584](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-CVE-2021-43584) - DOM-based XSS via 'name' element of 'Tail Event Logs' functionality in Nagios Cross-Platform Agent (NCPA) versions from 2.0 to 2.3.1
+
+This vulnerability was introduced in NCPA [version 2.0](https://github.com/NagiosEnterprises/ncpa/commit/0466def7a5911afb32b84cbe3b2a552694cfc615) and it was applicable up until version 2.3.1.
 
 ## **April 5, 2021 - Pentaho Business Analytics**
 
