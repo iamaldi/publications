@@ -1,6 +1,16 @@
 <h3 align="center">IT Security Publications</h3>
 <h6 align="center">Security vulnerabilities identified in personal and collaborative cybersecurity research.</h6>
 
+## **November, 2021 - Nagios Cross-Platform Agent (NCPA)**
+
+**Product**: Nagios Cross-Platform Agent (NCPA)\
+**Vendor**: Nagios Enterprises\
+**Affected Version(s)**: 2.3.1\
+**Author(s)**: Altion Malka (CENSUS Labs)\
+**Reference(s)**: https://github.com/NagiosEnterprises/ncpa/issues/830 \
+**Security Vulnerabilities**:
+
+- [CVE-2021-43584](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-CVE-2021-43584) - DOM-based XSS via 'name' element of 'Tail Event Logs' functionality
 
 ## **April 5, 2021 - Pentaho Business Analytics**
 
